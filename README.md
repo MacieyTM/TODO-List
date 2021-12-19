@@ -1,2 +1,2 @@
-# Strona internetowa z TODO listą:
+# Aplikacja z TODO listą:
 https://macieytm.github.io/TODO-List/
